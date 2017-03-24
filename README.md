@@ -1,5 +1,6 @@
 # User session information
 OS: Ubuntu Server 16.04.1
+
 Username: trespass
 
 Password: trespass
