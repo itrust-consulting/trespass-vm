@@ -1,3 +1,9 @@
+# Virtual Machine
+The OVA file for the virtual machine is [available here](https://www.itrust.lu/trespass.ova)
+
+*Note:* The OVA file was imported and tested on VirtualBox v5.0.24.
+
+
 # User session information
 OS: `Ubuntu Server 16.04.1`
 
@@ -15,9 +21,6 @@ The following command can be used to change the mapping:
 sudo dpkg-reconfigure keyboard-configuration
 ```
 
-# Importing the .ova file
-The .ova file for the virtual machine is available here: [https://www.itrust.lu/trespass.ova](https://www.itrust.lu/trespass.ova)
-We tested the import of the .ova file with VirtualBox v5.0.24.
 
 # Further Links
 
